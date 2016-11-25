@@ -1,26 +1,22 @@
 {
   "child_menu": [
     {
-      "menu_id": 1,
       "category_id": 1,
       "category_name": "Accessories",
       "child_count": 7
     },
     {
-      "menu_id": 1,
       "category_id": 2,
       "category_name": "Audio Books",
       "child_count": 7
     },
     {
-      "menu_id": 1,
       "category_id": 3,
       "category_name": "Cook Books",
       "child_count": 0,
-      "": {}
+      
     },
     {
-      "menu_id": 1,
       "category_id": 4,
       "category_name": "Guiter Chord Book",
       "child_count": 0
